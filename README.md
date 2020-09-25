@@ -24,7 +24,7 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at [Punjab Universi
 - 💬 Brainstorm with me over tech, algorithms, career, and music ;
 - 😄 Ask me about anything, I am happy to help;
 - 📫 How to reach me: hamzaashfaq7866@gmail.com;
-- 🔗 My website: https://pro-developer90.herokuapp.com/;
+- 🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
 - 📝 [Resume](https://drive.google.com/drive/u/0/my-drive)
 
 **Languages and Tools:**  
