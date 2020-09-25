@@ -12,7 +12,7 @@
 
 <br />
 <br />
-Hello, my name is Hamza Ashfaq and I am a Bachelor's student at [Punjab University](http://www.pu.edu.pk/) majoring in Computer Science. I am a full-stack developer with one year of experience. My technology stack involves  HTML/CSS/Bootstrap, javascript , Jquery , React.Js , Node.Js. Besides programming, I have an immense interest in music.
+Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab University majoring in Computer Science. I am a full-stack developer with one year of experience. My technology stack involves  HTML/CSS/Bootstrap, javascript , Jquery , React.Js , Node.Js. Besides programming, I have an immense interest in music.
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" height="300" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -25,7 +25,7 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at [Punjab Universi
 - 😄 Ask me about anything, I am happy to help;
 - 📫 How to reach me: hamzaashfaq7866@gmail.com;
 - 🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
-- 📝 [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📝 [Resume](https://drive.google.com/file/d/1E30RobviC7uz9toK58q8M55qWgBofeV9/view?usp=sharing)
 
 **Languages and Tools:**  
 
