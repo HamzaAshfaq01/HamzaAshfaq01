@@ -55,7 +55,7 @@ Text         7 mins          ▒░░░░░░░░░░░░░░░░
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  3,924 Karma Points          
-🌸  Earned 51 clients           
+🌸  Earned 5 clients           
 🗓  Completed 23 tasks this week           
 ✅  Completed 352 Projects so far           
 ⏳  Longest streak is 10 days
