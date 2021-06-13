@@ -65,7 +65,7 @@ Text         7 mins          ▒░░░░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaAshfaq01&repo=convoychat" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&theme=gotham" />
 (https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&theme=gotham)
 
 </details>
