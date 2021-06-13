@@ -65,7 +65,8 @@ Text         7 mins          ▒░░░░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&theme=gotham" alt="Tayyab's Stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&theme=gotham" alt="Hamza's Stats" />
 
 </details>
 
