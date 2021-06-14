@@ -45,10 +45,7 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-MERN Stack   7 hrs 34 mins   █████████████████████▓░░░   86.48 % 
-Markdown     45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-JavaScript   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
