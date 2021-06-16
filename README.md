@@ -27,9 +27,8 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 - 🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
 - 📝 [Resume](https://drive.google.com/file/d/1E30RobviC7uz9toK58q8M55qWgBofeV9/view?usp=sharing)
 
-**Languages and Tools:**  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
 
 
 📊 **This Week I Spent My Time On:**
