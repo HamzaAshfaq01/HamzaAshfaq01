@@ -9,7 +9,14 @@
 	<a href="https://www.instagram.com/hamza_ashfaq_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 <br />
-Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab University majoring in Computer Science. I am a full-stack developer with one year of experience. My technology stack involves  HTML/CSS/Bootstrap, javascript , Jquery , React.Js , Node.Js. Besides programming, I have an immense interest in music.
+
+<p>
+I’m a Front End Developer living in Pakistan experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. I’m looking to expand my portfolio and collaborate on something new.
+<br/>
+Stacks I have worked with : MERN , React+Firebase , Next+React.
+<br/>
+Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+</p>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" height="300" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
