@@ -1,14 +1,13 @@
 ### Hi there 👋, I am [Hamza](https://github.com/HamzaAshfaq01)! 😁
 
-<a href="https://www.linkedin.com/in/tayyab-khalid-5051b81ab/">
-  <img align="left" alt="Hamza's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/hamza.ashfaq.12139">
-  <img align="left" alt="Hamza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/hamza_ashfaq_official/">
-  <img align="left" alt="Hamza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+### Let's Connect :coffee:
+
+<p align="center">
+	<a href="https://github.com/HamzaAshfaq01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/hamza-ashfaq-8a671b1b2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/hamza.ashfaq.12139"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/hamza_ashfaq_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
 
 <br />
 <br />
@@ -19,32 +18,36 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on my Competitive Programming skills;
-- 🌱 I’m currently learning React.Js and Node.Js;
-- 💬 Brainstorm with me over tech, algorithms, career, and music ;
-- 😄 Ask me about anything, I am happy to help;
-- 📫 How to reach me: hamzaashfaq7866@gmail.com;
-- 🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
-- 📝 [Resume](https://drive.google.com/file/d/1E30RobviC7uz9toK58q8M55qWgBofeV9/view?usp=sharing)
+-   💻 I’m currently working on my Competitive Programming skills;
+-   🌱 I’m currently learning React.Js and Node.Js;
+-   💬 Brainstorm with me over tech, algorithms, career, and music ;
+-   😄 Ask me about anything, I am happy to help;
+-   📫 How to reach me: hamzaashfaq7866@gmail.com;
+-   🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
+-   📝 [Resume](https://drive.google.com/file/d/1E30RobviC7uz9toK58q8M55qWgBofeV9/view?usp=sharing)
 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
+
 <!-- TODO-IST:START -->
-🏆  3,924 Karma Points          
-🌸  Earned 5 clients           
-🗓  Completed 23 tasks this week           
-✅  Completed 352 Projects so far           
-⏳  Longest streak is 10 days
+
+🏆 3,924 Karma Points  
+🌸 Earned 5 clients  
+🗓 Completed 23 tasks this week  
+✅ Completed 352 Projects so far  
+⏳ Longest streak is 10 days
+
 <!-- TODO-IST:END -->
 
 <details>
@@ -55,5 +58,14 @@ No Activity tracked this Week
 
 </details>
 
+### Let's Connect :coffee:
 
+<p align="center">
+	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
+![alt text](./images/bottom.svg)
