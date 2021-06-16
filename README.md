@@ -1,15 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am [Hamza](https://github.com/HamzaAshfaq01)! 😁
 
-### Let's Connect :coffee:
-
-<p align="center">
-	<a href="https://github.com/HamzaAshfaq01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hamza-ashfaq-8a671b1b2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/hamza.ashfaq.12139"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/hamza_ashfaq_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-<br />
-
 <p>
 I’m a Front End Developer living in Pakistan experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. I’m looking to expand my portfolio and collaborate on something new.
 <br/>
@@ -94,4 +84,13 @@ No Activity tracked this Week
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzaAshfaq01&theme=react-dark)
 
- <br>
+ <br/>
+
+### Let's Connect :coffee:
+
+<p align="center">
+	<a href="https://github.com/HamzaAshfaq01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/hamza-ashfaq-8a671b1b2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/hamza.ashfaq.12139"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/hamza_ashfaq_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
