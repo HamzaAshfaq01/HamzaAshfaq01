@@ -81,8 +81,17 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
   </tr>
   
 </table>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
+<details>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10" />
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01) -->
+
+</details>
 
 📊 **This Week I Spent My Time On:**
 
@@ -113,15 +122,3 @@ No Activity tracked this Week
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
 
 </details>
-
-### Let's Connect :coffee:
-
-<p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
-![alt text](./images/bottom.svg)
