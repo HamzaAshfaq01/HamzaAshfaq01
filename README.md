@@ -87,6 +87,8 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 <!--   Stats -->
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/HamzaAshfaq01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamzaAshfaq01&show_icons=true&include_all_commits=true&count_private=true"/>
