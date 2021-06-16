@@ -31,63 +31,27 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 -   🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
 -   📝 [Resume](https://drive.google.com/file/d/1E30RobviC7uz9toK58q8M55qWgBofeV9/view?usp=sharing)
 
-<table align= "center">
-  <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./images/react-original.svg" width="48" height="48" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./images/react-original.svg" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./images/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./images/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./images/git.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./images/nextjs.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    </br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./images/Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./images/styled-components.svg" width="48" height="48" alt="FStyled-components" />
-      </a>
-      <br>Styled-components
-    </td>
+### 🛠️ Languages and Tools:
 
-   </tr>
-  </tr>
-  
-</table>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 <br/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01) -->
