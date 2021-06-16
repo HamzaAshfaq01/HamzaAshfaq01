@@ -58,9 +58,6 @@ No Activity tracked this Week
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaAshfaq01&repo=HamzaAshfaq01)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
-
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 <br/>
