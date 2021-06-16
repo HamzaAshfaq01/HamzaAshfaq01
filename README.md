@@ -125,6 +125,6 @@ No Activity tracked this Week
 
 ### 📈 GitHub Activity Graph:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzaAshfaq01&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzaAshfaq01&theme=react-dark)
 
  <br>
