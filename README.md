@@ -97,7 +97,7 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 ### 📊 GitHub Stats:
 
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&count_private=true)
 
 <!--   Top Languages Using -->
 
