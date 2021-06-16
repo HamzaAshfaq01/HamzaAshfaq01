@@ -1,15 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am [Hamza](https://github.com/HamzaAshfaq01)! 😁
+# Hi, I'm I am [Hamza](https://github.com/HamzaAshfaq01)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<p>
-I’m a Front End Developer living in Pakistan experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. I’m looking to expand my portfolio and collaborate on something new.
-<br/>
-Stacks I have worked with : MERN , React+Firebase , Next+React.
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
-</p>
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="45%" height="300" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## I'm a CS student and Front-End web developer !
 
 **Talking about Personal Stuffs:**
 
