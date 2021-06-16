@@ -85,14 +85,15 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 <p>
 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
 
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10" />
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10" />
 
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01) -->
 
+<p>
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
@@ -114,6 +115,7 @@ No Activity tracked this Week
 ⏳ Longest streak is 10 days
 
 <!-- TODO-IST:END -->
+</p>
 
 <details>
 <summary>📈 My GitHub Stats</summary>
