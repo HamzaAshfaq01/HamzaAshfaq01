@@ -89,22 +89,17 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/HamzaAshfaq01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamzaAshfaq01&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=8"/>
-</a>
-</p>
 
 ### 📊 GitHub Stats:
 
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&count_private=true)
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&count_private=true"/>
 
 <!--   Top Languages Using -->
 
 ### 👨‍💻 Top Languages Used\*:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10"/>
 
 <p>
 📊 **This Week I Spent My Time On:**
