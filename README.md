@@ -117,10 +117,10 @@ No Activity tracked this Week
 <!-- TODO-IST:END -->
 </p>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-<br/>
- <b/r>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
+<!--   GitHub stats graph -->
 
-</details>
+### 📈 GitHub Activity Graph:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzaAshfaq01&theme=github)
+
+ <br>
