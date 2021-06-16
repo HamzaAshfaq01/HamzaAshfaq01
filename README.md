@@ -85,9 +85,9 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 <p>
 
-<img width="50%"  align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=HamzaAshfaq01&show_icons=true&&count_private=true&&include_all_commits=true" />
 
-<img width="50%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10" />
+<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10" />
 
 </p>
 
