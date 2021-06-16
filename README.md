@@ -52,10 +52,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-<br/>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01) -->
-
 <!--   Stats -->
 
 ### 📊 GitHub Stats:
