@@ -97,9 +97,6 @@ Hello, my name is Hamza Ashfaq and I am a Bachelor's student at Punjab Universit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAshfaq01&layout=compact&langs_count=10)](https://github.com/HamzaAshfaq01/HamzaAshfaq01)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaAshfaq01)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HamzaAshfaq01&theme=nord_dark)
-
 <p>
 📊 **This Week I Spent My Time On:**
 
