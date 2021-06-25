@@ -10,7 +10,7 @@
 -   😄 Ask me about anything, I am happy to help;
 -   📫 How to reach me: hamzaashfaq7866@gmail.com;
 -   🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
--   📝 [Resume](https://drive.google.com/file/d/1E30RobviC7uz9toK58q8M55qWgBofeV9/view?usp=sharing)
+-   📝 [Resume](https://drive.google.com/file/d/1wrVhfSlwyJqHIksa7DDGJ2IjrRikWkg2/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
