@@ -77,7 +77,7 @@ No Activity tracked this Week
 
 ### Let's Connect :coffee:
 
-<p align="center">
+<p align="center"> 
 	<a href="https://github.com/HamzaAshfaq01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hamza-ashfaq-8a671b1b2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/hamza.ashfaq.12139"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
