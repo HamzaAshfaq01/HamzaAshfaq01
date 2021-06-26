@@ -9,7 +9,7 @@
 -   💬 Brainstorm with me over tech, algorithms, career, and music ;
 -   😄 Ask me about anything, I am happy to help;
 -   📫 How to reach me: hamzaashfaq7866@gmail.com;
--   🔗 My Portfolio: https://pro-developer90.herokuapp.com/;
+-   🔗 My Portfolio: https://hamzaashfaq.netlify.app/;
 -   📝 [Resume](https://drive.google.com/file/d/1t3Ng5Z896q5QFCEI_6ZF6TkvKewWCqn5/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
