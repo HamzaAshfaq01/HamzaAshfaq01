@@ -75,7 +75,7 @@ No Activity tracked this Week
 
  <br/>
 
-### Let's Connect :coffee:
+### Let's Connect :coffee: 
 
 <p align="center"> 
 	<a href="https://github.com/HamzaAshfaq01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
