@@ -10,7 +10,7 @@
 -   😄 Ask me about anything, I am happy to help;
 -   📫 How to reach me: hamzaashfaq7866@gmail.com;
 -   🔗 My Portfolio: https://hamzaashfaq.netlify.app/;
--   📝 [Resume](https://drive.google.com/file/d/1t3Ng5Z896q5QFCEI_6ZF6TkvKewWCqn5/view?usp=sharing)
+-   📝 [Resume](https://drive.google.com/file/d/1AjOb-7E0EFThgRqroLKKhOJAg424jgKu/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
