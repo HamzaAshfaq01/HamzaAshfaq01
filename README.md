@@ -67,14 +67,6 @@ No Activity tracked this Week
 <!-- TODO-IST:END -->
 </p>
 
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzaAshfaq01&theme=react-dark)
-
- <br/>
-
 ### Let's Connect :coffee: 
 
 <p align="center"> 
