@@ -9,8 +9,8 @@
 -   💬 Brainstorm with me over tech, algorithms, career, and music ;
 -   😄 Ask me about anything, I am happy to help;
 -   📫 How to reach me: hamzaashfaq7866@gmail.com;
--   🔗 My Portfolio: https://hamzaashfaq.netlify.app/;
--   📝 [Resume](https://drive.google.com/file/d/1VIukMunM8sQxp2rp1NPM4FjqQvB35mdr/view?usp=drive_link)
+-   🔗 My Portfolio: https://hamzaashfaq01.netlify.app/;
+-   📝 [Resume](https://drive.google.com/file/d/1AVg6gJhWJyv2QwvRsqqaRhQ_v8F9xaH9i_j-TyK_eVo/view?usp=drive_link)
 
 ### 🛠️ Languages and Tools:
 
